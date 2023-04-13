@@ -2,4 +2,4 @@
 weather_api_key = "YOUR KEY HERE"
 
 # Geoapify API Key
-geoapify_key = "prj_test_pk_483120c747403662b1c29e1dc4ffac9a38a4568b"
+geoapify_key = "bfcd7bd328a74d878e9182e7a999cee7"
